@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+out/
+dist/
+build/
+
+# Cache directories
+.cache/
+.parcel-cache/
+
+# Environment files
+.env*
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation
+docs/
+*.md
+
+# Config files
+*.config.js
+*.config.mjs
+*.config.ts
+tailwind.config.js
+postcss.config.mjs
+next.config.js
+
+# Scripts
+scripts/
+
+# Test files
+**/*.test.js
+**/*.test.ts
+**/*.spec.js
+**/*.spec.ts
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
